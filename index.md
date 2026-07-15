@@ -1,5 +1,3 @@
-# SnoreAway Legal
-
 ## English
 
 - [Privacy Policy](en/privacy-policy.html)
